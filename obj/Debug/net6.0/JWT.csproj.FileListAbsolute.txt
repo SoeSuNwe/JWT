@@ -28,6 +28,8 @@ D:\ssn\JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\ssn\JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 D:\ssn\JWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\ssn\JWT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ssn\JWT\bin\Debug\net6.0\MySqlConnector.dll
+D:\ssn\JWT\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\ssn\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\ssn\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ssn\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

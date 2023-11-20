@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e+Yv7XRttnQRxV1P3zUrl9c7JrhBXUKRW1TRVp1PnC8o9KPDS5Q+wKdnILlauEt8nypNTdmUrgb0uXbNtI5mRg==",
+  "dgSpecHash": "6XQvAQ7kEJrDKIF5or+CRcYvIC6vx+SfMs5WXnnAeZWUaFU+5/0vp+yXls9oca2oKtDgpFceUR3v4wFwU+gk+A==",
   "success": true,
   "projectFilePath": "D:\\ssn\\JWT\\JWT.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,8 @@
     "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512",
+    "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.0\\pomelo.entityframeworkcore.mysql.6.0.0.nupkg.sha512",
     "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\GW-2022-10-1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
