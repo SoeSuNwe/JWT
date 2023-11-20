@@ -1,4 +1,6 @@
 **/bin/*
 **/obj/*
-.vs/
-.vs/SampleJWT/v17/.suo
+.vs/*
+.vs/JWT/v17/.suo
+obj/Debug/net6.0/JWT.assets.cache
+obj/Debug/net6.0/JWT.GeneratedMSBuildEditorConfig.editorconfig
