@@ -1,3 +1,4 @@
+using System;
 using System.Text;
 using JWT.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -10,8 +11,15 @@ ConfigurationManager configuration = builder.Configuration;
 
 // Add services to the container.
 
-// For Entity Framework
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("ConnStr")));
+// For Entity Framework SQL Server
+//builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("ConnStr")));
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    var connectionString = builder.Configuration.GetConnectionString("MysqlConnection");
+
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+});
 
 // For Identity
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
